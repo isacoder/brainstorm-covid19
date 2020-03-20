@@ -10,11 +10,11 @@ Lluvia de ideas para ayudar a México a mitigar los problemas del Covid 19.
 
 ## Índice
 
-* [Acerca del proyecto](https://github.com/CodeandoMexico/civic-project-template#acerca-del-proyecto)
-* [Clasificacion de Ideas](https://github.com/CodeandoMexico/civic-project-template#cClasificacion-de-Ideas)
-* [Contribuye](https://github.com/CodeandoMexico/civic-project-template#Contribuye)
-* [Créditos](https://github.com/CodeandoMexico/civic-project-template#creditos)
-* [Licencia](https://github.com/CodeandoMexico/civic-project-template#licencia)
+* [Acerca del proyecto](https://github.com/isacoder/brainstorm-covid19/#acerca-del-proyecto)
+* [Clasificacion de Ideas](https://github.com/isacoder/brainstorm-covid19/#cClasificacion-de-Ideas)
+* [Contribuye](https://github.com/isacoder/brainstorm-covid19/e#Contribuye)
+* [Créditos](https://github.com/isacoder/brainstorm-covid19/#creditos)
+* [Licencia](https://github.com/isacoder/brainstorm-covid19/#licencia)
 
 ## Acerca del proyecto
 
@@ -26,17 +26,17 @@ La comunicación deberia llevarse en el slack de la comunidad.
 
 ## Clasificacion-de-Ideas
 
-#### [Prevenir-contagios](https://github.com/CodeandoMexico//brainstorm-covid19#Prevenir-contagios)
+#### [Prevenir-contagios](https://github.com/isacoder/brainstorm-covid19/#Prevenir-contagios)
 
-#### [Respuesta-medica](https://github.com/CodeandoMexico//brainstorm-covid19#Prevenir-contagios)
+#### [Respuesta-medica](https://github.com/isacoder/brainstorm-covid19/#Prevenir-contagios)
 
-#### [Ayuda-personas-de-las-3era-edad](https://github.com/CodeandoMexico//brainstorm-covid19#Ayuda-personas-de-las-3era-edad)
+#### [Ayuda-personas-de-las-3era-edad](https://github.com/isacoder/brainstorm-covid19/#Ayuda-personas-de-las-3era-edad)
 
-#### [Prevenir-crisis-economica](https://github.com/CodeandoMexico//brainstorm-covid19#Prevenir-crisis-economica)
+#### [Prevenir-crisis-economica](https://github.com/isacoder/brainstorm-covid19/#Prevenir-crisis-economica)
 
-#### [Ayuda-psicologica](https://github.com/CodeandoMexico//brainstorm-covid19#Ayuda-psicologica)
+#### [Ayuda-psicologica](https://github.com/isacoder/brainstorm-covid19/#Ayuda-psicologica)
 
-#### [Micelaneos](https://github.com/CodeandoMexico//brainstorm-covid19#Micelaneos)
+#### [Micelaneos](https://github.com/isacoder/brainstorm-covid19/#Micelaneos)
 
 ## Prevenir-contagios
 México esta aun en etapa de detectar y prevenir contagios. Pongamos aquí las ideas de como ayudar a prevenirlos, detectarlos y comunicarlos.
