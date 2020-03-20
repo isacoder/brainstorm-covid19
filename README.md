@@ -26,17 +26,17 @@ La comunicación deberia llevarse en el slack de la comunidad.
 
 ## Clasificacion-de-Ideas
 
-#### [Prevenir-contagios](https://github.com/CodeandoMexico/civic-project-template#Prevenir-contagios)
+#### [Prevenir-contagios](https://github.com/CodeandoMexico//brainstorm-covid19#Prevenir-contagios)
 
-#### [Respuesta-medica](https://github.com/CodeandoMexico/civic-project-template#Prevenir-contagios)
+#### [Respuesta-medica](https://github.com/CodeandoMexico//brainstorm-covid19#Prevenir-contagios)
 
-#### [Ayuda-personas-de-las-3era-edad](https://github.com/CodeandoMexico/civic-project-template#Ayuda-personas-de-las-3era-edad)
+#### [Ayuda-personas-de-las-3era-edad](https://github.com/CodeandoMexico//brainstorm-covid19#Ayuda-personas-de-las-3era-edad)
 
-#### [Prevenir-crisis-economica](https://github.com/CodeandoMexico/civic-project-template#Prevenir-crisis-economica)
+#### [Prevenir-crisis-economica](https://github.com/CodeandoMexico//brainstorm-covid19#Prevenir-crisis-economica)
 
-#### [Ayuda-psicologica](https://github.com/CodeandoMexico/civic-project-template#Ayuda-psicologica)
+#### [Ayuda-psicologica](https://github.com/CodeandoMexico//brainstorm-covid19#Ayuda-psicologica)
 
-#### [Micelaneos](https://github.com/CodeandoMexico/civic-project-template#Micelaneos)
+#### [Micelaneos](https://github.com/CodeandoMexico//brainstorm-covid19#Micelaneos)
 
 ## Prevenir-contagios
 México esta aun en etapa de detectar y prevenir contagios. Pongamos aquí las ideas de como ayudar a prevenirlos, detectarlos y comunicarlos.
