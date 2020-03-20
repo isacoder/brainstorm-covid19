@@ -6,89 +6,129 @@
 
 # Nombre del proyecto
 
-**tl;dr**: Descripción de tu proyecto en un tweet.
+Lluvia de ideas para ayudar a México a mitigar los problemas del Covid 19.
 
 ## Índice
 
 * [Acerca del proyecto](https://github.com/CodeandoMexico/civic-project-template#acerca-del-proyecto)
-* [Comienza](https://github.com/CodeandoMexico/civic-project-template#comienza)
-* [Contribuye](https://github.com/CodeandoMexico/civic-project-template#contribuye)
-* [Referencias](https://github.com/CodeandoMexico/civic-project-template#referencias)
+* [Clasificacion de Ideas](https://github.com/CodeandoMexico/civic-project-template#cClasificacion-de-Ideas)
+* [Contribuye](https://github.com/CodeandoMexico/civic-project-template#Contribuye)
 * [Créditos](https://github.com/CodeandoMexico/civic-project-template#creditos)
 * [Licencia](https://github.com/CodeandoMexico/civic-project-template#licencia)
 
 ## Acerca del proyecto
 
-Este proyecto es una plantilla para crear proyectos en Codeando México. Puedes forkearla y modificarla o simplemente tomar lo que necesites. Modifícala a tu gusto. No es necesario referir a este documento en los créditos. El proyecto cuenta ya con:
+El equipo de Codeando México siempre se ha caracterizado por tener la ayuda de muchas personas con grandes ideas pero a veces es algo complicado organizarnos y dar seguimiento a todos los proyectos, sobretodo en tiempo de crisis.
 
-- [x] README.md
-- [x] Etiquetas estándar en la sección de *issues*.
-- [x] Etiquetas en el about del proyecto.
-- [x] Template para HACKLOG.md
-- [x] Archivo LICENCE con licencia MIT.
-- [ ] Plantilla para guía de contribución
-- [ ] Plantilla de *issues*.
-- [ ] Más badges!
-
-## Comienza
-
-### Descarga
-
-1. **Escribe aquí el primer paso.**
-
-    Descripción breve del primer segundo.
-
-   ```
-   comando
-   $ otro comando
-   ```
-
-    ¿Qué sucede con este paso?
-   
-> **Nota**: Información adicional de este paso.
-
-2. **Segunda instrucción.**
-
-    Descripción breve del primer segundo.
-
-   ```
-   comando
-   $ otro comando
-   ```
-
-    ¿Qué sucede con este paso?
+Este repositorio tiene la finalidad de reunir todas las ideas, clasificarlas y organizar equipos.
+La comunicación deberia llevarse en el slack de la comunidad.
 
 
-### Instalación
+## Clasificacion-de-Ideas
 
-Utiliza como guía la sección de [Descarga](https://github.com/CodeandoMexico/civic-project-template#descarga). 
+#### [Prevenir-contagios](https://github.com/CodeandoMexico/civic-project-template#Prevenir-contagios)
+
+#### [Respuesta-medica](https://github.com/CodeandoMexico/civic-project-template#Prevenir-contagios)
+
+#### [Ayuda-personas-de-las-3era-edad](https://github.com/CodeandoMexico/civic-project-template#Ayuda-personas-de-las-3era-edad)
+
+#### [Prevenir-crisis-economica](https://github.com/CodeandoMexico/civic-project-template#Prevenir-crisis-economica)
+
+#### [Ayuda-psicologica](https://github.com/CodeandoMexico/civic-project-template#Ayuda-psicologica)
+
+#### [Micelaneos](https://github.com/CodeandoMexico/civic-project-template#Micelaneos)
+
+## Prevenir-contagios
+México esta aun en etapa de detectar y prevenir contagios. Pongamos aquí las ideas de como ayudar a prevenirlos, detectarlos y comunicarlos.
+
+- Puertas electronicas
+- Dispensadores electronicos
+- Analisis con camaras termicas de detencion de casos en lugares de mucha afluencia
+- Guias de limpieza del hogar
 
 
-### Ejecución
+## Respuesta-medica
+Ya hay casos y va a haber muchos más, evitemos el panico ayudando a los doctores y ciudadanos como actuar en caso de emergencia.
 
-Utiliza como guía la sección de [Ejecución](https://github.com/CodeandoMexico/civic-project-template#ejecucion)
+#### Micelaneo de infograficos para compartir en la red
+- Guias para que hacer en caso de reconocerse como posible portador (Llamar al hospital y avisar que vas para alla para que esten preparados, no tomar medios de transporte publicos para llegar al hospital, dar tu numero de celular para que te llamen en tu turno y asi no esperar en la sala de hospital.
+
+- Llegara el momento que los hospitales estén saturados. Cuando pase eso personas con síntomas leves o medianamente no deben ir al hospital y mejor quedar en casa y pasar ahí la cuarentena. 
+
+- Guias para la poblacion de como cuidar pacientes no graves de covid19 en casa
+
+- Herramientas para encontrar tu hospital mas cercano que atienda casos de covid19 dependiendo de que derechoabiente puedes ser.
+
+
+
+#### Ideas para compartir a personas que son parte de un hospital
+- Toldos y sillas fuera de los hospitales para pacientes sospechosos de covid en espera de ser atendidos (Se ha demostrado que los contagios aumentan mucho en lugares cerrados)
+- Como hacer traqueo de pacientes con celular?
+- Impresoras 3d para equipo medico que pueda faltar
+
+
+## Ayuda-personas-de-las-3era-edad
+Las personas más vulnerables a esta enfermedad son las de la tercera edad, generemos ideas de como apoyarles durante esta crisis.
+
+- App para ofrecerse a hacer un servicio por a alguien de la rercera edad. Como super. 
+- Llevar desinfectantes a casa
+- Como ayudar con su soledad durante la pandemia? 
+
+
+## Prevenir-crisis-economica
+Se pronostica que un 20% de la poblacion mundial se quedara sin empleo. Quedarse en casa es genial en vacaciones pero hay varios sectores de la poblacion que no pueden darse el lujo de solo encerrarse para prevenir. Estar en casa no debe significar el fin del progreso como sociedad si somos lo suficientemente creativos para pivotear nuestras formas de trabajo. 
+¿Cómo desde la tecnologia podemos potenciar a las personas para que continuen generando dinero para su sustento?
+
+#### Empleos y negocios más vulnerables a la crisis
+
+- Taxistas sin nadie a quien llevar
+- Personas de trabajo eventual en negocios que hay que cerrar
+- Trabajadores del Tianguis 
+- Negocios Ambulantes 
+- Restaurantes y cafeterias
+
+#### Ideas para potenciar
+
+- Ubers de auto en repartidores
+- Restaurantes con comida a domicilio
+
+#### Herramientas de Donaciones
+- Organizaciones de ayuda medica
+- Bancos de alimento 
+- Sitio de Copera para pagar la renta? 
+- Donación de ropa
+- Donación de material medico
+- Dona un Uber al Hospital ( para evitar que los casos sospechosos usen el transporte publico)
+
+
+## Ayuda-psicologica
+
+- He visto en twitter algunos psicologos ofreciendo sus servicios durante estos momentos, como los ayudamos a ser mas eficientes para que las personas los encuentren.
+
+
+
+## Micelaneos
+
+#### Personas en situacion de calle
+- Como ayudamos a que encuentren albergues?
+- Como ayudamos a que ellos tambien tengan acceso a jabon y mascarillas de tela.
+- Como ayudamos a que su sistema inmunologico este fuerte para lo que viene.
 
 
 ## Contribuye
 
-Incluye aquí las formas de contribuir a tu proyecto.
+Los projectos que se han generado hasta ahora relacionados con el Covid 19 en Codeando México
 
+[API-COVID-19](https://github.com/CodeandoMexico/API-COVID-19)
 
-## Referencias
-
-1. Bradley, T. (2013) [El Hacker Cívico: Civic-Minded Techies Gain Sway With Government in Mexico and Beyond](http://www.huffingtonpost.com/theresa-bradley/el-hacker-civico-how-civi_b_4334088.html). *The Huffington Post*.
-2. Bracy, C. (2014) [Why Good Hackers Make Good Citizens](https://www.youtube.com/watch?v=QeAGu40vZzI).
-3. Codeando México. (2015) [Los hackers cívicos mexicanos](https://www.fayerwayer.com/2015/01/los-hackers-civicos-mexicanos/). *FayerWayer*.
-4. Goldstein, B., Dyson, L. (2013) [Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org).
-5. Barry, L. (2016) [vTaiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy](https://civichall.org/civicist/vtaiwan-democracy-frontier). *Civicist*.
-6. Swartz, A. (2008) [Open Access Guerrilla Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt).
+[Frenalacurvamx](https://github.com/CodeandoMexico/frenalacurvamx)
 
 ## Créditos
 
 ### Core-Team
 
-* [octocat](http://github.com/octocat)
-* [rodowi](http://github.com/rodowi)
+* [isacoder](http://github.com/isacoder)
+
 
 ### Otros contribuidores
 
